@@ -1,4 +1,4 @@
-# Sprint 11 — Python Visualizations & Power BI Integration
+# 📌 Sprint 11 — Python Visualizations & Power BI Integration
 
 ## Description
 
@@ -20,7 +20,7 @@ The dataset used corresponds to the transactional database created in **Sprint 4
 
 ---
 
-## General Objectives
+## 📌 General Objectives
 
 * Understand the main data visualization methodologies.
 * Select appropriate visualization techniques depending on data type and analytical objective.
@@ -85,9 +85,6 @@ Each visualization includes interpretation of results.
 
 All Level 1 visualizations are recreated inside **Power BI** using Python scripts.
 
-⚠️ Special consideration:
-When importing datasets into Power BI, unique identifiers were included to prevent automatic duplicate removal.
-
 ---
 
 ## Technologies Used
@@ -126,6 +123,4 @@ Level: Beginner → Intermediate Data Analysis
 
 ## Author
 
-**vujaldon**
-
-GitHub Portfolio — Data Analytics Learning Path
+**vbujaldon**
