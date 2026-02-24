@@ -16,7 +16,7 @@ The project covers the complete analytical workflow:
 * Interpretation of analytical results
 * Integration of Python visualizations into **Power BI dashboards**
 
-The dataset used corresponds to the transactional database created in **Sprint 4**.
+The dataset used corresponds to the database created in **Sprint 4**.
 
 ---
 
@@ -47,11 +47,12 @@ The dataset used corresponds to the transactional database created in **Sprint 4
 
 ```
 📁 sprint11_python_visualizations
-│
-├── CODE_sprint11_visualizaciones_Python_powerBI.ipynb
-├── Python_Scripts-Power_BI_visualizations.pbix
-├── README.md
-└── Supporting documentation
+- PYTHON CODE: CODE_sprint11_visualizaciones_Python_powerBI.ipynb 
+- POWER BI RESULTS: Python_Scripts-Power_BI_visualizations.pbix 
+- README.md
+─ DATABASE to replicate the code:
+  -sample_data.sql
+  -database_schema.sql
 ```
 
 ---
@@ -70,7 +71,7 @@ Connection between Python and MySQL Workbench and creation of visualizations for
 * Three combined variables
 * Pairplot analysis
 
-Each visualization includes interpretation of results.
+Each visualization includes a quick interpretation of results.
 
 ---
 
