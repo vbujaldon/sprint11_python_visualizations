@@ -48,7 +48,7 @@ The dataset used corresponds to the database created in **Sprint 4**.
 ```
 📁 sprint11_python_visualizations
 - PYTHON CODE: CODE_sprint11_visualizaciones_Python_powerBI.ipynb 
-- POWER BI RESULTS: Python_Scripts-Power_BI_visualizations.pbix 
+- POWER_BI_Python_scripts_results.pbix 
 - README.md
 ─ DATABASE to replicate the code:
   -sample_data.sql
